@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos cacheados de Python (los que se ven en tu foto)
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Archivos Excel temporales
+*.xlsx
